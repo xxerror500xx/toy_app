@@ -1,7 +1,7 @@
 # toy_app
-This is another application built from [railstutorial.org](https://www.railstutorial.org/book/toy_app). This is the second of three applications to be made from the tutorial. I will add the final product bellow upon completion.
+This is another application built from [railstutorial.org](https://www.railstutorial.org/book/toy_app). This is the second of three applications to be made from the tutorial.
 
-[final product](https://gentle-shelf-63578.herokuapp.com/)
+[final product](https://pure-river-25532.herokuapp.com/)
 
 This application will be focusing on the following:
   - [Github](github.com) (i decided to use instead of bitbucket might move all of these tut apps to it eventually)

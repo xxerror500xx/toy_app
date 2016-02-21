@@ -15,19 +15,12 @@ This application will be focusing on the following:
   - Basic inheritance hierarchies
   - [Heroku](heroku.com)
 
-## Strengths and weaknesses of tutorial for me.
-  * Strengths
-    -
-  * weaknesses
-    -
-
 ## My Lessons Learned from this tutorial
 * Learned allot more about the rake command $ rake -T
 * Thought of some clever fake user names and emails...
 
 | Name 	| Email |
 |:-------|:-------------|
-|Ima Klown|lola.life@jusclownin.com|
-|Rich Doctur|sureman.hurtz@ullbok.com|
+|Ima Klown|lol-life@jusclownin.com|
+|Rich Doctur|sureman_hurtz@ullbok.com|
 |Finis Villein|g.reaper@death.com|
-* 
